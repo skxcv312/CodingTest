@@ -49,7 +49,6 @@ class Solution {
             sb.append(n % k);
             n /= k;
         }
-
         return sb.reverse().toString();
     }
 }
