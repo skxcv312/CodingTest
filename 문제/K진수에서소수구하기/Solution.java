@@ -1,4 +1,4 @@
-package K진수에서소수구하기;
+package 문제.K진수에서소수구하기;
 
 class Solution {
     public int solution(int n, int k) {

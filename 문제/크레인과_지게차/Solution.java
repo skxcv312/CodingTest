@@ -1,4 +1,4 @@
-package 크레인과_지게차;
+package 문제.크레인과_지게차;
 
 import java.util.*;
 
