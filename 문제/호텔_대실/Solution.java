@@ -14,7 +14,7 @@ class Solution {
             time[i][1] = format(Integer.parseInt(bang[1].replace(":", "")) + 10);
         }
 
-        Arrays.sort(time, (a, b) -> {
+        Arrays.sort(time, (a, b) -> { 
             if (a[1] == b[1])
                 return a[0] - b[0];
             return a[1] - b[1];
